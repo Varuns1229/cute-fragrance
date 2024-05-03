@@ -15,8 +15,17 @@ const quotes = [
 our time and that's is only your smile`,
   `your name suites you <br/>
 bacause i feel your fragrance`,
+  `this life long love-clock <br/>
+always remind your promises`,
+  `always handle with love and care <br/>
+because you founded a priceless diamond`,
 ];
-const image = [`cute-fragrance.jpg`, `cute-fragrance-1.jpg`];
+const image = [
+  `cute-fragrance.jpg`,
+  `cute-fragrance-1.jpg`,
+  `cute-fragrance-2.jpg`,
+  `cute-fragrance-3.jpg`,
+];
 const fulldays = [
   "Sunday",
   "Monday",
