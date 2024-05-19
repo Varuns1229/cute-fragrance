@@ -21,6 +21,7 @@ always remind your promises`,
 because you founded a priceless diamond`,
 ];
 const image = [
+  `cute-fragrance-5.jpg`,
   `cute-fragrance.jpg`,
   `cute-fragrance-1.jpg`,
   `cute-fragrance-2.jpg`,
